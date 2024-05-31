@@ -1,1 +1,4 @@
-export const DB_NAME = "money-manger"
+//project related constant variables
+
+
+// export const DB_NAME = "money-manger"

@@ -1,0 +1,12 @@
+PORT=2000
+DB_NAME = "project-name"
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.gybxhyc.mongodb.net
+CORS_ORIGIN=*
+ACCESS_TOKEN_SECRET=vishal-random-chars
+ACCESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=vishal-randome-chars
+REFRESH_TOKEN_EXPIRY=10d
+
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
